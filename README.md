@@ -1,14 +1,15 @@
-# **FULL v0, Cursor, Manus, Same.dev & Lovable System Prompts & AI Models**  
+# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin & Replit Agent System Prompts, Tools & AI Models**  
 
-🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev & Lovable system prompts and internal tools.**
+🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin & Replit Agent system prompts and internal tools.**
 
 📜 Over **5,500+ lines** of insights into their structure and functionality.  
 
 ## 📂 **Available Files**
 - **v0 Folder**  
 - **Manus Folder**
-- **Same.dev Folder**
 - **Lovable Folder**
+- **Devin Folder**
+- **Replit Folder**
 - **Cursor Folder**  
    - cursor ask.txt *(coming soon!)*  
    - cursor edit.txt *(coming soon!)*  
@@ -22,14 +23,17 @@
 🔐 **Interested in securing your AI systems?**  
 Check out **ZeroLeaks**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
 
-🔗 **Visit ZeroLeaks here:** https://zeroleaks.vercel.app/
+🔗 **Contact Us here:** 
 
+- X: NotLucknite
 ---
 
-## 🛠 **What Do You Want to See Next?**
-Have suggestions? Open an [issue](../../issues).  
+## 🛠 **Roadmap & Feedback**
 
-🆕 **LATEST UPDATE:** 01/04/2025
+🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
+Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
+
+🆕 **LATEST UPDATE:** 19/04/2025 
 
 ## 📊 **Star History**
 
@@ -41,8 +45,22 @@ Have suggestions? Open an [issue](../../issues).
  </picture>
 </a>
 
+## ❤️ Support the Project
+
+If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
+
+You can show your support via:
+
+*   **PayPal:** `lucknitelol@proton.me`
+*   **Cryptocurrency:**
+    *   **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`
+    *   **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`
+
+Thank you for your support! 🙏
+
+
 ## 🔗 **Connect With Me**  
 ✖ **X:** [NotLucknite](https://x.com/NotLucknite)  
 💬 **Discord:** `x1xh`  
 
-⭐ **Drop a star if you find this useful!**  
+⭐ **Drop a star if you find this useful!**
